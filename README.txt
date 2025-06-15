@@ -1,32 +1,36 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+README.txt
+-----------
 
+Project: Entry-Level Data Analyst Portfolio  
+Author: Kuk No (Jin)
+Email: jin.no@alcon.com
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Overview:
+---------
+This portfolio showcases foundational data analysis skills using real-world datasets and common tools such as Excel, SQL, and Tableau. It includes exploratory data analysis (EDA), data cleaning, visualization, and basic statistical insights.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Contents:
+---------
+1. /datasets/        - Raw and cleaned datasets used in the analysis    
+2. /outputs/         - Final charts, reports, and summaries  
+3. /README.txt        - Project overview and structure  
 
-(* = not included)
+Skills Demonstrated:
+--------------------
+- Data Cleaning   
+- Exploratory Data Analysis
+- Data Visualization using Tableau
+- MySQL Queries for Data Extraction  
+- Report Interpretation  
 
-AJ
-aj@lkn.io | @ajlkn
+Tools Used:
+-----------
+- MySQL
+- Excel
+- Tableau  
 
+Contact:
+--------
+For questions, feedback, or collaboration opportunities, feel free to reach out via email or LinkedIn.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for reviewing my work!
