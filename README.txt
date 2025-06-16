@@ -1,7 +1,7 @@
 README.txt
 -----------
 
-Project: Entry-Level Data Analyst Portfolio  
+Project: Data Analyst Portfolio  
 Author: Kuk No (Jin)
 Email: jin.no@alcon.com
 
